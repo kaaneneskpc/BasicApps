@@ -5,10 +5,23 @@ These applications contains basic-intermediate level kotlin programming language
 # Introduction
 
 
-Synthetic binding structure was used in the applications here.Synthetic is a tool that frees the findViewById definition to write safe, leaner code.
+Synthetic binding ,and viewbinding structure was used in the applications here.Synthetic is a tool that frees the findViewById definition to write safe, leaner code.
+
+View binding is a feature that allows you to more easily write code that interacts with views. Once view binding is enabled in a module, it generates a binding class for each XML layout file present in that module. An instance of a binding class contains direct references to all views that have an ID in the corresponding layout.
+In most cases, view binding replaces findViewById.
+
 How do we integrate it into our project?
 
+-Synthetic Binding
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/32849662/102712859-23bd2e00-42d5-11eb-918e-e6afce3e61fd.PNG)
+
+-View Binding
+
+![image](https://user-images.githubusercontent.com/32849662/102716625-211b0280-42ee-11eb-8eed-1c9f44b7f2f6.png)
+![image](https://user-images.githubusercontent.com/32849662/102716642-414ac180-42ee-11eb-8e00-a36f2a7c8692.png)
+![image](https://user-images.githubusercontent.com/32849662/102716660-59224580-42ee-11eb-9c54-47d3b9266200.png)
+
 
 # 1)Storing Data
 
