@@ -4,7 +4,11 @@ These applications contains basic-intermediate level kotlin programming language
 
 # Introduction
 
-This projects contains the examples made using standard programming structures, object-oriented programming and collections.
+
+Synthetic binding structure was used in the applications here.Synthetic is a tool that frees the findViewById definition to write safe, leaner code.
+How do we integrate it into our project?
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/32849662/102712859-23bd2e00-42d5-11eb-918e-e6afce3e61fd.PNG)
 
 # 1)Calculate Average
 
